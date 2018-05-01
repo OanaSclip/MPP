@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><inventory>
+    
+<inventory id="1"><idClient>1</idClient><idBook>1</idBook></inventory><inventory id="2"><idClient>1</idClient><idBook>2</idBook></inventory><inventory id="3"><idClient>2</idClient><idBook>2</idBook></inventory></inventory>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><bookstore>
+    
+    
+    <book id="12">
+        <title>T3</title>
+        <author>A3</author>
+        <price>145</price>
+        <genre>H</genre>
+    </book>
+    <book id="13">
+        <title>T4</title>
+        <author>A4</author>
+        <price>200</price>
+        <genre>K</genre>
+    </book><book id="14">
+        <title>Suhddef</title>
+        <author>Anjkgjknr</author>
+        <price>123</price>
+        <genre>hnjksd</genre>
+    </book>
+<book id="2"><title>T2</title><author>A2</author><price>123</price><genre>A</genre></book><book id="3"><title>T3</title><author>A3</author><price>145</price><genre>H</genre></book><book id="4"><title>T4</title><author>A4</author><price>200</price><genre>K</genre></book></bookstore>
