@@ -1,0 +1,5 @@
+rootProject.name = 'REM'
+include 'client'
+include 'server'
+include 'common'
+
